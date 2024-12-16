@@ -1,0 +1,31 @@
+{
+  "name": "knowiegpt-webpage",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.11",
+    "@mui/styles": "^5.11.11",
+    "aos": "^2.3.4",
+    "chart.js": "^4.2.1",
+    "eslint": "8.35.0",
+    "eslint-config-next": "13.2.3",
+    "next": "13.2.3",
+    "openai": "^3.2.1",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-scroll": "^1.8.9",
+    "react-toastify": "^9.1.1",
+    "swiper": "^9.1.0"
+  }
+}

@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+html,
+body {
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden;
+	scroll-behavior: smooth;
+}
+
+a {
+	text-decoration: none;
+}
+
+::-moz-selection {
+	background: #5342c799;
+}
+
+::selection {
+	background: #5342c799;
+}
+
+img::-moz-selection {
+	background: #5342c799;
+}
+
+img {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+:root {
+	--toastify-color-success: #1ec46d !important;
+	--toastify-color-error: #e24c4b !important;
+	--toastify-color-info: #70b0fa !important;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+	-moz-appearance: textfield;
+}
