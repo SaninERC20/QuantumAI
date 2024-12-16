@@ -23,7 +23,7 @@ function Community() {
 					</Typography>
 					<Typography className={styles.desc} data-aos="fade-up">
 						Let&apos;s build together a great community that will
-						develop the project together with our team. KnowieGTX is
+						develop the project together with our team. Quantum AI is
 						a fully community-driven token!
 					</Typography>
 					<div className={styles.bottomButtons} data-aos="fade-up">
