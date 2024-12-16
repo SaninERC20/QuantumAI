@@ -22,9 +22,9 @@ let features = [
 	{
 		icon: features1,
 		rotate: '-165deg',
-		title1: 'Zero',
+		title1: 'Low',
 		titleBold: 'Tax',
-		desc: 'Our token has no taxes! Every transaction is 0/0 and we will never put any taxes on it!',
+		desc: 'Our token has no taxes! Every transaction is 5/5 and all tax for marketing purpose',
 	},
 	{
 		icon: features2,
@@ -36,23 +36,23 @@ let features = [
 	{
 		icon: features3,
 		rotate: '0deg',
-		title1: 'KYC with',
-		titleBold: 'Pinksale',
-		desc: 'We have done the most demanding KYC done by Pinksale to keep our investors safe.',
+		title1: '100%',
+		titleBold: 'Community',
+		desc: '100% Community Driven.',
 	},
 	{
 		icon: features4,
 		rotate: '0deg',
-		title1: 'KnowieGTX',
+		title1: 'Quantum AI',
 		titleBold: 'App',
-		desc: 'Our chat app is ready in Beta version now for you to check out on our website! Full project utility ready before launch!',
+		desc: 'Our chat app is ready in Beta version now for you to check out on our website! Full project utility ready in phase 2',
 	},
 	{
 		icon: features5,
 		rotate: '0deg',
 		title1: 'Tier 1',
 		titleBold: 'Marketing Partner',
-		desc: 'We work with the best! Our main marketer is The Cryptovator, Tier 1 Marketing Partner from Pinksale.',
+		desc: 'We will work with tier 1 ETH Caller',
 	},
 	{
 		icon: features6,
