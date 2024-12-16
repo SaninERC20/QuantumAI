@@ -37,7 +37,7 @@ let features = [
 		icon: features3,
 		rotate: '0deg',
 		title1: '100%',
-		titleBold: 'Community',
+		titleBold: 'Safe',
 		desc: '100% Community Driven.',
 	},
 	{
@@ -51,7 +51,7 @@ let features = [
 		icon: features5,
 		rotate: '0deg',
 		title1: 'Tier 1',
-		titleBold: 'Marketing Partner',
+		titleBold: 'Kols',
 		desc: 'We will work with tier 1 ETH Caller',
 	},
 	{
