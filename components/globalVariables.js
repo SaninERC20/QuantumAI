@@ -1,7 +1,7 @@
 // >> Variables
 const getVariable = {
 	['texts']: {
-		pageTitle: 'KnowieGTX',
+		pageTitle: 'Quantum AI',
 		pageDesc: '',
 		pageImage: '',
 		pageLink: '',
