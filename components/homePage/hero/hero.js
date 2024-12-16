@@ -28,12 +28,12 @@ function Hero() {
 					<Typography className={styles.title}>
 						Work and daily activities{' '}
 						<span className={styles.boldTitle}>are easier</span>{' '}
-						with KnowieGTX
+						with Quantum AI
 					</Typography>
 					<Typography className={styles.desc}>
 						Nothing makes life easier than using artificial
 						intelligence during everyday activities or at work. All
-						in one offers a modern messenger - KnowieGTX.
+						in one offers a modern messenger - Quantum AI
 					</Typography>
 					<div className={styles.bottomButtons}>
 						<div className={styles.oneButton}>
@@ -48,10 +48,10 @@ function Hero() {
 						<div className={styles.oneButton}>
 							<Button
 								className={styles.rightBtn}
-								href="https://google.com"
+								href="https://app.uniswap.org/"
 								target="_blank"
 							>
-								<Typography>Presale</Typography>
+								<Typography>Uniswap</Typography>
 							</Button>
 						</div>
 					</div>
@@ -62,7 +62,7 @@ function Hero() {
 						<Input
 							disableUnderline={true}
 							fullWidth={true}
-							placeholder="Ask anything Knowie"
+							placeholder="Ask anything Quantum AI"
 							onChange={(event) => {
 								setInput(event.target.value);
 							}}
