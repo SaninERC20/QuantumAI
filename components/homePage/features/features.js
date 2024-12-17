@@ -84,7 +84,7 @@ function Features() {
 							data-aos="fade-right"
 						>
 							We have designed some reliable solutions for our
-							project that will make KnowieGTX one of the best on
+							project that will make Quantum AI one of the best on
 							the cryptocurrency market. We are up to date with
 							the market and we know what the market of investors
 							expect from projects!
