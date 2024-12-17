@@ -23,11 +23,11 @@ function WhatIs() {
 			<div className={styles.insideDiv}>
 				<div className={styles.top}>
 					<Typography className={styles.title} data-aos="fade-up">
-						What is Knowie
+						What is Quantum AI
 						<span className={styles.boldTitle}>GTX</span>?
 					</Typography>
 					<Typography className={styles.desc} data-aos="fade-up">
-						KnowieGTX is a modern messenger for work and/or everyday
+						Quantum AI is a modern messenger for work and/or everyday
 						activities that uses ChatGPT API to integrate its
 						functions with our chat. Enjoy artificial intelligence
 						when communicating with people!
