@@ -14,13 +14,13 @@ import useGlobalStyles from '../../globalStyle';
 const tokenAmount = 100000000;
 const tokenInfo = {
 	[1]: {
-		title: 'Strategic Costam',
-		percent: 20,
+		title: 'Liquidity Pool',
+		percent: 90,
 		color: '#5342C7',
 	},
 	[2]: {
-		title: 'Strategic Partners',
-		percent: 30,
+		title: 'Ecosystem',
+		percent: 4,
 		color: '#27292D',
 	},
 	[3]: {
@@ -29,13 +29,13 @@ const tokenInfo = {
 		color: '#FF0000',
 	},
 	[4]: {
-		title: 'Strategic Costam22',
-		percent: 40,
+		title: 'CEX',
+		percent: 4,
 		color: '#FFFFFF',
 	},
 	[5]: {
-		title: 'Strategic Costam333',
-		percent: 10,
+		title: 'Marketing',
+		percent: 2,
 		color: '#27292D',
 	},
 };
