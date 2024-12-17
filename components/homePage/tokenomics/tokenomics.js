@@ -53,11 +53,11 @@ export const data = {
 	datasets: [
 		{
 			data: [
-				tokenInfo[1].percent / 2,
-				tokenInfo[2].percent / 2,
-				tokenInfo[3].percent / 2,
-				tokenInfo[4].percent / 2,
-				tokenInfo[5].percent / 2,
+				tokenInfo[1].percent / 1,
+				tokenInfo[2].percent / 1,
+				tokenInfo[3].percent / 1,
+				tokenInfo[4].percent / 1,
+				tokenInfo[5].percent / 1,
 			],
 			backgroundColor: [
 				tokenInfo[1].color,
