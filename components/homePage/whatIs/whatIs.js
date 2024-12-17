@@ -23,8 +23,8 @@ function WhatIs() {
 			<div className={styles.insideDiv}>
 				<div className={styles.top}>
 					<Typography className={styles.title} data-aos="fade-up">
-						What is Quantum AI
-						<span className={styles.boldTitle}>GTX</span>?
+						What is Quantum
+						<span className={styles.boldTitle}>AI</span>?
 					</Typography>
 					<Typography className={styles.desc} data-aos="fade-up">
 						Quantum AI is a modern messenger for work and/or everyday
