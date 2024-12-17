@@ -33,26 +33,26 @@ let roadmap1 = [
 		done: true,
 	},
 	{
-		title: 'Whitepaper',
+		title: 'Prelaunch Marketing',
 		done: true,
 	},
 	{
-		title: 'Strategic Partnerships',
+		title: 'Uniswap Launch',
 		done: true,
 	},
 ];
 
 let roadmap2 = [
 	{
-		title: 'Team formation',
+		title: 'Dexs & Dext Update',
 		done: true,
 	},
 	{
-		title: 'Website launch',
+		title: 'Post Launch Marketing',
 		done: true,
 	},
 	{
-		title: 'Whitepaper',
+		title: 'Dapps Launch',
 		done: true,
 	},
 	{
@@ -67,46 +67,46 @@ let roadmap2 = [
 
 let roadmap3 = [
 	{
-		title: 'Team formation',
+		title: 'More Upcoming',
 		done: false,
 	},
 	{
-		title: 'Website launch',
+		title: 'More Upcoming',
 		done: false,
 	},
 	{
-		title: 'Whitepaper',
+		title: 'More Upcoming',
 		done: false,
 	},
 	{
-		title: 'Strategic Partnerships',
+		title: 'More Upcoming',
 		done: false,
 	},
 	{
-		title: 'Strategic Partnerships',
+		title: 'More Upcoming',
 		done: false,
 	},
 ];
 
 let roadmap4 = [
 	{
-		title: 'Team formation',
+		title: 'More Upcoming',
 		done: false,
 	},
 	{
-		title: 'Website launch',
+		title: 'More Upcoming',
 		done: false,
 	},
 	{
-		title: 'Whitepaper',
+		title: 'More Upcoming',
 		done: false,
 	},
 	{
-		title: 'Strategic Partnerships',
+		title: 'More Upcoming',
 		done: false,
 	},
 	{
-		title: 'Strategic Partnerships',
+		title: 'More Upcoming',
 		done: false,
 	},
 ];
@@ -195,7 +195,7 @@ function Roadmap() {
 							</div>
 							<div className={styles.swiperSlideInside}>
 								<div className={styles.swiperTitle}>
-									<Typography>Q1 2023</Typography>
+									<Typography>Phase 1</Typography>
 								</div>
 								{roadmap1.map((element, index) => {
 									return (
@@ -241,7 +241,7 @@ function Roadmap() {
 						<SwiperSlide className={styles.swiperSlide}>
 							<div className={styles.swiperSlideInside}>
 								<div className={styles.swiperTitle}>
-									<Typography>Q2 2023</Typography>
+									<Typography>Phase 2</Typography>
 								</div>
 								{roadmap2.map((element, index) => {
 									return (
@@ -287,7 +287,7 @@ function Roadmap() {
 						<SwiperSlide className={styles.swiperSlide}>
 							<div className={styles.swiperSlideInside}>
 								<div className={styles.swiperTitle}>
-									<Typography>Q3 2023</Typography>
+									<Typography>Phase 3</Typography>
 								</div>
 								{roadmap3.map((element, index) => {
 									return (
@@ -333,7 +333,7 @@ function Roadmap() {
 						<SwiperSlide className={styles.swiperSlide}>
 							<div className={styles.swiperSlideInside}>
 								<div className={styles.swiperTitle}>
-									<Typography>Q4 2023</Typography>
+									<Typography>Phase 4</Typography>
 								</div>
 								{roadmap4.map((element, index) => {
 									return (
