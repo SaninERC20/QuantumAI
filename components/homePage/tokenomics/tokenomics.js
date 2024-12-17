@@ -19,8 +19,8 @@ const tokenInfo = {
 		color: '#5342C7',
 	},
 	[2]: {
-		title: 'Ecosystem',
-		percent: 4,
+		title: 'Team',
+		percent: 0,
 		color: '#27292D',
 	},
 	[3]: {
@@ -29,13 +29,13 @@ const tokenInfo = {
 		color: '#FF0000',
 	},
 	[4]: {
-		title: 'CEX',
-		percent: 4,
+		title: 'Ecosystem',
+		percent: 5,
 		color: '#FFFFFF',
 	},
 	[5]: {
-		title: 'Marketing',
-		percent: 2,
+		title: 'CEX',
+		percent: 5,
 		color: '#27292D',
 	},
 };
