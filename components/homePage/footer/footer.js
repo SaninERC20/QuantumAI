@@ -62,7 +62,7 @@ function Footer() {
 				<div className={styles.bottom}>
 					<div className={styles.bottomLeft}>
 						<Typography>
-							© 2023 KnowieGPT. All rights reserved.
+							© 2024 Quantum AI. All rights reserved.
 						</Typography>
 					</div>
 					<div className={styles.bottomRight}>
