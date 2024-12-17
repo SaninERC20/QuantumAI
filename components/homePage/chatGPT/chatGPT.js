@@ -104,7 +104,7 @@ function ChatGPT() {
 					</div>
 					<Typography className={styles.title}>
 						Check out!{' '}
-						<span className={styles.boldTitle}>KnowieGTX</span>
+						<span className={styles.boldTitle}>Quantum AI</span>
 					</Typography>
 					<Typography className={styles.desc}>
 						Check out our chat application, used in everyday
