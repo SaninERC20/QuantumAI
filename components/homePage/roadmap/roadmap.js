@@ -60,7 +60,7 @@ let roadmap2 = [
 		done: true,
 	},
 	{
-		title: 'Strategic Partnerships',
+		title: 'Tier 1 CEX',
 		done: true,
 	},
 ];
