@@ -46,24 +46,24 @@ const data = [
 		desc: 'The best way to contact our team is via Telegram. Join our group and ask a question, and we will be happy to answer it.',
 	},
 	{
-		title: 'How can I buy KnowieGTX (KGTX) tokens?',
-		desc: 'KnowieGTX (KGTX) tokens are currently available in presale on the trusted Pinksale platform.',
+		title: 'How can I buy Quantum AI tokens?',
+		desc: 'You can buy Quantum AI tokens by Swap ETH on Uniswap Platform.',
 	},
 	{
-		title: 'Is the Team KYC?',
-		desc: 'Yes, our team is KYC verified by Pinksale.',
+		title: 'Is the Contract Renounced?',
+		desc: 'Yes, Our Contract will be renounced, 15 minutes after live.',
 	},
 	{
-		title: 'What exactly is KnowieGTX?',
-		desc: 'KnowieGTX is a solution for both private individuals as well as for organizations that want to strengthen their work by integrating additional AI features into their workflow. It is primarily a modern chat platform using ChatGTP and integrating it into current solutions.',
+		title: 'What exactly is Quantum AI?',
+		desc: 'Quantum AI is a solution for both private individuals as well as for organizations that want to strengthen their work by integrating additional AI features into their workflow. It is primarily a modern chat platform using ChatGTP and integrating it into current solutions.',
 	},
 	{
-		title: 'What is the KnowieGTX (KGTX) token?',
-		desc: 'KGTX is the native token of our decentralized application - KnowieGTX which is a modern chat application for everyone who wants to learn about integration with artificial intelligence in everyday life and work.',
+		title: 'What is the Quantum AI token?',
+		desc: 'Quantum AI is the native token of our decentralized application - Quantum AI which is a modern chat application for everyone who wants to learn about integration with artificial intelligence in everyday life and work.',
 	},
 	{
 		title: 'Is the token audited?',
-		desc: 'Yes, the source code of our token has been thoroughly checked by SolidProof.',
+		desc: 'Yes, contract will be audit at certik',
 	},
 ];
 
