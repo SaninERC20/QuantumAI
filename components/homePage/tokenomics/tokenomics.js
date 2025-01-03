@@ -11,7 +11,7 @@ import useGlobalStyles from '../../globalStyle';
 
 // >> Variables
 // zjebie jak tu nie ogarniasz to zapytaj, 50% musi byc puste dlatego ze jest pół diagramu tylko bo tak sobie macius wymyslil
-const tokenAmount = 100000000;
+const tokenAmount = 1000000000;
 const tokenInfo = {
 	[1]: {
 		title: 'Liquidity Pool',
