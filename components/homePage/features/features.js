@@ -22,9 +22,9 @@ let features = [
 	{
 		icon: features1,
 		rotate: '-165deg',
-		title1: 'Low',
-		titleBold: 'Tax',
-		desc: 'Our token has no taxes! Every transaction is 5/5 and all tax for marketing purpose',
+		title1: 'Safe',
+		titleBold: 'Contract',
+		desc: 'Contract is safe and deployed by slerf.tools',
 	},
 	{
 		icon: features2,
