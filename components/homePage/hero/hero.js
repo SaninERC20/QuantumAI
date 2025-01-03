@@ -48,10 +48,10 @@ function Hero() {
 						<div className={styles.oneButton}>
 							<Button
 								className={styles.rightBtn}
-								href="https://app.uniswap.org/"
+								href="https://raydium.io/"
 								target="_blank"
 							>
-								<Typography>Uniswap</Typography>
+								<Typography>Raydium</Typography>
 							</Button>
 						</div>
 					</div>
