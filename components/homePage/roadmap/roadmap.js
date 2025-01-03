@@ -37,7 +37,7 @@ let roadmap1 = [
 		done: true,
 	},
 	{
-		title: 'Uniswap Launch',
+		title: 'Raydium Launch',
 		done: true,
 	},
 ];
