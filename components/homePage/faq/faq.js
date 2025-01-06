@@ -47,11 +47,7 @@ const data = [
 	},
 	{
 		title: 'How can I buy Quantum AI tokens?',
-		desc: 'You can buy Quantum AI tokens by Swap ETH on Uniswap Platform.',
-	},
-	{
-		title: 'Is the Contract Renounced?',
-		desc: 'Yes, Our Contract will be renounced, 15 minutes after live.',
+		desc: 'You can buy Quantum AI tokens by Swap ETH-BASE on BASE Platform.',
 	},
 	{
 		title: 'What exactly is Quantum AI?',
@@ -60,10 +56,6 @@ const data = [
 	{
 		title: 'What is the Quantum AI token?',
 		desc: 'Quantum AI is the native token of our decentralized application - Quantum AI which is a modern chat application for everyone who wants to learn about integration with artificial intelligence in everyday life and work.',
-	},
-	{
-		title: 'Is the token audited?',
-		desc: 'Yes, contract will be audit at certik',
 	},
 ];
 
