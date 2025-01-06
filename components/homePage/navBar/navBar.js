@@ -63,10 +63,10 @@ function NavBar() {
 					<div className={styles.rightButton}>
 						<Button
 							className={styles.rightBtn}
-							href="https://google.com"
+							href="https://t.me/+fpycqfBkIRM0ODE1"
 							target="_blank"
 						>
-							<Typography>Whitepaper</Typography>
+							<Typography>Telegram</Typography>
 						</Button>
 					</div>
 				</div>
