@@ -39,10 +39,10 @@ function Hero() {
 						<div className={styles.oneButton}>
 							<Button
 								className={styles.leftBtn}
-								href="https://google.com"
+								href="#"
 								target="_blank"
 							>
-								<Typography>Whitepaper</Typography>
+								<Typography>Telegram</Typography>
 							</Button>
 						</div>
 						<div className={styles.oneButton}>
