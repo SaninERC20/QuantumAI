@@ -30,7 +30,7 @@ function Community() {
 						<div className={styles.bottomButton}>
 							<Button
 								className={styles.btn}
-								href="https://google.com"
+								href="https://x.com/quantumaint"
 								target="_blank"
 							>
 								<Typography>Twitter</Typography>
@@ -39,7 +39,7 @@ function Community() {
 						<div className={styles.bottomButton}>
 							<Button
 								className={styles.btn}
-								href="https://google.com"
+								href="https://t.me/+7Nf-YiKOkFQ1NmI1"
 								target="_blank"
 							>
 								<Typography>Telegram</Typography>
