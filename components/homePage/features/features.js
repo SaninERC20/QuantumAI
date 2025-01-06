@@ -52,7 +52,7 @@ let features = [
 		rotate: '0deg',
 		title1: 'Tier 1',
 		titleBold: 'Kols',
-		desc: 'We will work with tier 1 SOL Caller',
+		desc: 'We will work with tier 1 BASE Caller',
 	},
 	{
 		icon: features6,
