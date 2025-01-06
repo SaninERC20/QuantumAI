@@ -37,7 +37,7 @@ let roadmap1 = [
 		done: true,
 	},
 	{
-		title: 'Raydium Launch',
+		title: 'Base Launch',
 		done: true,
 	},
 ];
