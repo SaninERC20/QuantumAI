@@ -15,7 +15,7 @@ const tokenAmount = 1000000000;
 const tokenInfo = {
 	[1]: {
 		title: 'Liquidity Pool',
-		percent: 90,
+		percent: 100,
 		color: '#5342C7',
 	},
 	[2]: {
@@ -30,12 +30,12 @@ const tokenInfo = {
 	},
 	[4]: {
 		title: 'Ecosystem',
-		percent: 5,
+		percent: 0,
 		color: '#FFFFFF',
 	},
 	[5]: {
 		title: 'CEX',
-		percent: 5,
+		percent: 0,
 		color: '#27292D',
 	},
 };
