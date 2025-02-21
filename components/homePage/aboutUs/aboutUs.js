@@ -28,8 +28,7 @@ function AboutUs() {
 						Read About <span className={styles.boldTitle}>Us</span>!
 					</Typography>
 					<Typography className={styles.desc} data-aos="fade-up">
-						Read about us on major news sites like Benziga, Yahoo
-						Finance, MarketWatch and much more!
+						Upcoming articles on major news sites like Benzinga, Yahoo Finance, MarketWatch, and others.
 					</Typography>
 				</div>
 
